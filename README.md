@@ -19,13 +19,13 @@ Baza de date este alcatuita dintr-o tabela ce stocheaza textele si traducerile a
 4. Flux de date 
 Exemple de request / response si metode HTTP
 Aplicatia se bazeaza pe doua metode HTTP:
-1. Cea care traduce textul si insereaza informatia in baza de date:
+a. Cea care traduce textul si insereaza informatia in baza de date:
  
 ![image](https://user-images.githubusercontent.com/75979307/168481728-d6a8e20a-d61a-461c-a1b0-a3c0fc178056.png)
 ![image](https://user-images.githubusercontent.com/75979307/168481731-0059216e-3b66-4364-8711-e16c139c079c.png)
 
  
-2. Cea care afiseaza traducerea textului introdus de utilizator:
+b. Cea care afiseaza traducerea textului introdus de utilizator:
  ![image](https://user-images.githubusercontent.com/75979307/168481736-1584f8ec-7e2f-40ca-b86f-9e4c1178bd4d.png)
 ![image](https://user-images.githubusercontent.com/75979307/168481742-404f9164-9370-4aa8-a23e-34de35a66590.png)
 

@@ -3,8 +3,11 @@ Nume: Talaba Adina
 Grupa: 1119
 
 Link back: https://github.com/adina19/CloudProiect/tree/04_Final
+
 Link front: https://github.com/adina19/CloudComputingFront/tree/04_FinalFront
 
+
+Link prezentare: https://youtu.be/dJGNh195grw
 
 1. Introducere
 Proiectul s-a bazat pe crearea unei aplicatii de traducere. Pentru realizarea back-end-ului am folosit node.js, iar pentru front-end – react.
